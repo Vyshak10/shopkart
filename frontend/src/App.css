@@ -1,0 +1,5 @@
+/* App specific global overrides or Toastify tweaks */
+.Toastify__toast {
+  border-radius: var(--radius-sm);
+  font-family: inherit;
+}
